@@ -1,0 +1,133 @@
+.n1{
+    border: 4px;
+    border-color: black;
+    width: 300px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(17, 14, 14);
+    margin-left: 880px;
+
+}
+#p{
+    z-index: 50;
+    
+}
+header{
+    height: 50px;
+    background-color: blue;
+    border-radius: 16px 16px 0px 0px;
+    border-bottom: 4px solid black;
+}
+.m1{
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+    
+}
+.l1{
+    width: 180px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.l2{
+    width: 200px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -15px;
+    border-radius: 5px;
+    background-color: gray;
+
+}
+.n2{
+    border: 4px;
+    border-color: rgb(10, 10, 10);
+    width: 300px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(148, 22, 22);
+    margin-top: -510px;
+    margin-left: 400px  ;
+    
+}
+header{
+    height: 50px;
+    background-color: blue;
+    border-radius: 16px 16px 0px 0px;
+    border-bottom: 4px solid black;
+}
+.m1{
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+    
+}
+.l1{
+    width: 180px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.l2{
+    width: 200px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -15px;
+    border-radius: 5px;
+    background-color: gray;
+
+}
+.n3{
+    border: 4px;
+    border-color: rgb(10, 10, 10);
+    width: 300px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: -510px;
+    margin-left: 600px;
+    
+}
+header{
+    height: 50px;
+    background-color: blue;
+    border-radius: 16px 16px 0px 0px;
+    border-bottom: 4px solid black;
+}
+.m1{
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+    
+}
+.l1{
+    width: 180px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.l2{
+    width: 200px;
+    height: 5px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -15px;
+    border-radius: 5px;
+    background-color: gray;
+
+}
+
