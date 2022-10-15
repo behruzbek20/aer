@@ -1,0 +1,58 @@
+*/{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+height: 100px;
+background-color: blue;
+
+}
+main{
+width: 80%;
+background-image: url(./1.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 500px;
+margin: 0auto;
+margin-top: 5%;
+display: flex;
+align-items: center;
+justify-content: center;
+border-top-left-radius: 20px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 80px;
+border-bottom-right-radius: 100px;
+border-width: 30px;
+border-color: yellow;
+border-style: double;
+
+
+}
+main .box{
+width: 100px;
+height: 50px;
+background-color: blue;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
